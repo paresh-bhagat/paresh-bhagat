@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **web development**
 
+<!--- 
 - 🤝 I’m looking for help with **react**
 
 - 💬 Ask me about **C programming**
+-->
 
 - 📫 How to reach me **pareshbhagat29@gmail.com**
 
