@@ -36,7 +36,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a> 
 <a href="https://docs.oracle.com/javase/tutorial/uiswing/index.html" target="_blank" rel="noreferrer"> <img src="http://www.unicodesystems.us/img/core-img/swing1.jpg" alt="swing" width="60" height="40"/> </a> 
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://inventorsoft.co/assets/images/tech/Hibernate.png" alt="hibernate" width="50" height="40"/> </a> 
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://inventorsoft.co/assets/images/tech/Hibernate.png" alt="hibernate" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="linux" width="40" height="40"/> </a> 
