@@ -33,7 +33,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html5" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a> 
 <a href="https://docs.oracle.com/javase/tutorial/uiswing/index.html" target="_blank" rel="noreferrer"> <img src="http://www.unicodesystems.us/img/core-img/swing1.jpg" alt="swing" width="60" height="40"/> </a> 
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://inventorsoft.co/assets/images/tech/Hibernate.png" alt="hibernate" width="40" height="40"/> </a> 
