@@ -13,7 +13,7 @@
 - 💬 Ask me about **C programming**
 -->
 
-- 📫 How to reach me **pareshbhagat29@gmail.com**
+- 📫 How to reach me **https://paresh-bhagat.github.io/portfolio/**
 
 - ⚡ Fun fact **i can sing**
 
