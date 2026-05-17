@@ -29,9 +29,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="40" height="40"/> </a> 
-
+<!--- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paresh-bhagat&show_icons=true&locale=en&layout=compact" alt="paresh-bhagat" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paresh-bhagat&show_icons=true&locale=en" alt="paresh-bhagat" /></p>
-
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paresh-bhagat&" alt="paresh-bhagat" /></p>
